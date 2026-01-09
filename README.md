@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm john benjie siena</h1>
+<h1 align="center">Hi 👋, I'm John Benjie Siena</h1>
 <h3 align="center">I am a Full Stack Web Developer with a strong focus on building clean, scalable, and maintainable applications. My experience spans backend development using Django and Django REST Framework, as well as frontend development with React and React Native. I prioritize well-structured architectures, secure authentication, and efficient data handling to deliver reliable and high-performance systems. I follow modern development best practices, including modular design, automated testing, CI/CD pipelines, and containerized deployments. I value clarity in code, thoughtful documentation, and solutions that are easy to extend and maintain over time. My goal is to build software that is not only functional, but robust, secure, and pleasant to work with—both for users and fellow developers.</h3>
 
 - 🔭 I’m currently working on [Realtyflow](https://github.com/JBSiena/9-1-25.git)
 
 - 🌱 I’m currently learning **Django, Django REST Framework, React, React Native, Nodejs,**
 
-- 📫 How to reach me **jbsiena06@gmail.com**
+- 📫 How to reach me **jbsiena05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/john benjie siena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john benjie siena" height="30" width="40" /></a>
-<a href="https://fb.com/john benjie siena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john benjie siena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siena-john-benjie-a538332b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john benjie siena" height="30" width="40" /></a>
+<a href="https://www.facebook.com/siena.johnbenjie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john benjie siena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
