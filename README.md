@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Realtyflow](https://github.com/JBSiena/9-1-25.git)
 
-- 🌱 I’m currently learning **Django, Django REST Framework, React, React Native**
+- 🌱 I’m currently learning **Django, Django REST Framework, React, React Native, Nodejs,**
 
 - 📫 How to reach me **jbsiena06@gmail.com**
 
